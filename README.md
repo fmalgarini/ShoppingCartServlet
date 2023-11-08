@@ -38,7 +38,7 @@ This project is licensed under the [MIT License](LICENSE).
 This project was created as an educational example and is inspired by various online tutorials and resources.
 
 ## Contact
-For questions or further information, you can contact the project maintainer at [your@email.com](mailto:malgarinifacundo5@email.com).
+For questions or further information, you can contact the project maintainer at [malgarinifacundo5@gmail.com](mailto:malgarinifacundo5@email.com).
 
 Enjoy using the Carrito de Compras example! 
 
